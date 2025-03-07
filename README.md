@@ -3,7 +3,7 @@
 ## Description
 his project implements a Caesar Cipher, allowing users to encrypt and decrypt messages using a shift-based cipher technique.
 
-## Instal
+## Install
 - Node.js
 - npm (Node Package Manager)
 
